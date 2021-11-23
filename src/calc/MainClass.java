@@ -45,8 +45,6 @@ public class MainClass {
 				System.out.println("두수의 나누기: " + result);
 				System.out.println("static 을 사용한 두수의 나누기: " + calc.div(num1, num2));
 			} // else if
-//		Test test = new Test();
-//		test.method();
 
 			// 돈복사 하기 10% 확률로 10배 60% 확률로 3배 30% 확률로 실패
 			int myMoney = 1000;
